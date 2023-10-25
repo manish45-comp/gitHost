@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.1c491eeb.js",
-    "static/js/787.a02f2d01.chunk.js": "/static/js/787.a02f2d01.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.1c491eeb.js.map": "/static/js/main.1c491eeb.js.map",
-    "787.a02f2d01.chunk.js.map": "/static/js/787.a02f2d01.chunk.js.map"
+    "main.css": "/gitHost/static/css/main.073c9b0a.css",
+    "main.js": "/gitHost/static/js/main.d492fc91.js",
+    "static/js/787.a02f2d01.chunk.js": "/gitHost/static/js/787.a02f2d01.chunk.js",
+    "static/media/logo.svg": "/gitHost/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gitHost/index.html",
+    "main.073c9b0a.css.map": "/gitHost/static/css/main.073c9b0a.css.map",
+    "main.d492fc91.js.map": "/gitHost/static/js/main.d492fc91.js.map",
+    "787.a02f2d01.chunk.js.map": "/gitHost/static/js/787.a02f2d01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.1c491eeb.js"
+    "static/js/main.d492fc91.js"
   ]
 }
